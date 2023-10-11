@@ -8,7 +8,7 @@
 <div id="badges" align="center">
   <a href=[your-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)>
 <!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>-->
-    <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn Badge" width="120" height="40" /> 
+    <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn Badge" /> 
   </a>
 </div>
 
@@ -20,13 +20,13 @@
 
 --- ✨ Mahak Gautam - Web Developer ✨
 
--🔭 I’m currently specializing in Web Development.
--🌱 I’m continually expanding my skill set, with a strong focus on creating intuitive and engaging user experiences.
--👯 I’m open to collaborations on innovative web projects.
--💬 Ask me anything related to web development and design.
--📫 Connect with me on LinkedIn: [your-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)
--😄 Known for my passion for creating impactful user experiences and my proficiency in HTML, CSS, JavaScript, and DBMS.
--⚡ Fun fact: In my free time, I enjoy problem-solving on various coding platforms, creating captivating designs with Canva, and crafting digital mandala art.
+- 🔭 I’m currently specializing in Web Development.
+- 🌱 I’m continually expanding my skill set, with a strong focus on creating intuitive and engaging user experiences.
+- 👯 I’m open to collaborations on innovative web projects.
+- 💬 Ask me anything related to web development and design.
+- 📫 Connect with me on LinkedIn: [your-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)
+- 😄 Known for my passion for creating impactful user experiences and my proficiency in HTML, CSS, JavaScript, and DBMS.
+- ⚡ Fun fact: In my free time, I enjoy problem-solving on various coding platforms, creating captivating designs with Canva, and crafting digital mandala art.
 
 
 ---
