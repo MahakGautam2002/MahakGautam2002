@@ -3,19 +3,19 @@
 **MahakGautam2002/MahakGautam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-HEURGne9Vj856oivkD" width="100"/>
+  <img src="https://media.tenor.com/kjXMU4dl8lAAAAAM/hello-world.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href=[your-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)>
 <!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>-->
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.png.original.png" alt="LinkedIn Badge" width="120" height="40" /> 
+    <img src="https://www.flaticon.com/free-icon/linkedin_174857" alt="LinkedIn Badge" width="120" height="40" /> 
   </a>
 </div>
 
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 </div>
 
 --- ✨ Mahak Gautam - Web Developer ✨
