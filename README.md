@@ -31,6 +31,9 @@
 - 😄 Known for my passion for creating impactful user experiences and my proficiency in HTML, CSS, JavaScript, and DBMS.
 - ⚡ Fun fact: In my free time, I enjoy problem-solving on various coding platforms, creating captivating designs with Canva, and crafting digital mandala art.
 
+---
+
+[![An image of @mahakgautam2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahakgautam2002)](https://holopin.io/@mahakgautam2002)
 
 ---
 ### :fire: My Stats :- Quine Widgets :
