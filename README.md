@@ -14,7 +14,7 @@
 **✨ Mahak Gautam - Web Developer ✨**
 
 - 🔭 I’m currently specializing in Web Development.
-- 🌱 I’m continually expanding my skill set, with a strong focus on creating intuitive and engaging user experiences.
+- 🌱 I’m continuously expanding my skill set, with a strong focus on creating intuitive and engaging user experiences.
 - 👯 I’m open to collaborations on innovative web projects.
 - 💬 Ask me anything related to web development and design.
 - 📫 Connect with me on LinkedIn: [Mahak-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)
