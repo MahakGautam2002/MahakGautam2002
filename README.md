@@ -20,6 +20,11 @@
 - 📫 Connect with me on LinkedIn: [Mahak-linkedin-URL](https://www.linkedin.com/in/mahak-gautam-08a97b188/)
 - 😄 Known for my passion for creating impactful user experiences and my proficiency in HTML, CSS, JavaScript, and DBMS.
 - ⚡ Fun fact: In my free time, I enjoy problem-solving on various coding platforms, creating captivating designs with Canva, and crafting digital mandala art.
+- Below are some Profile links:
+    - [GFG ](https://yourdocumentationlink.com](https://www.geeksforgeeks.org/user/mahakgautam02/ )
+    - [Leetcode](https://yourdemolink.com](https://leetcode.com/u/mahakgautam02/ )
+    - [Behance](https://www.behance.net/mahakgautam)
+    - [Contact me](mailto:mahakgautam02@gmail.com)
 
 ---
 
