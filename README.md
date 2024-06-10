@@ -25,6 +25,12 @@
     - [Leetcode](https://yourdemolink.com](https://leetcode.com/u/mahakgautam02/ )
     - [Behance](https://www.behance.net/mahakgautam)
     - [Contact me](mailto:mahakgautam02@gmail.com)
+- Projects:
+    - [FragUi Gallary](https://www.figma.com/design/FWAOrthBYe6HvcHoNiELq7/Mahak-Projects?node-id=0-1&t=G0SYPpGEfPM3rG1J-0)
+    - [Wages & Wiskers](https://www.canva.com/design/DAFexQkDWfg/kRFjbhu-QaBZ-hzqABhJJg/edit)
+    - [Quencil Internship Project](https://www.canva.com/design/DAFi6tp7Vhk/BJQHzQZ0aO4y27tgQXw4IQ/edit)
+    - [OlympicMinia](https://youtu.be/qYobO5jl77g?si=2TIJ7rsBceZqljKj)
+    - 
 
 ---
 
@@ -34,8 +40,6 @@
 ### :fire: My Stats :- Quine Widgets :
 
 [![MahakGautam2002's GitHub | Stats](https://stats.quine.sh/MahakGautam2002/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MahakGautam2002)
-[![MahakGautam2002's GitHub | Dependencies](https://stats.quine.sh/MahakGautam2002/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=MahakGautam2002)
-[![MahakGautam2002's GitHub | Topics Over Time](https://stats.quine.sh/MahakGautam2002/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=MahakGautam2002)
 [![MahakGautam2002's GitHub | Languages Over Time](https://stats.quine.sh/MahakGautam2002/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MahakGautam2002)
 
 ---
@@ -56,7 +60,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
