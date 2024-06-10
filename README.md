@@ -26,11 +26,12 @@
     - [Behance](https://www.behance.net/mahakgautam)
     - [Contact me](mailto:mahakgautam02@gmail.com)
 - Projects:
+    - [NATASHA](https://www.canva.com/design/DAF-eOgBgIY/o4Fr0GJboMaelpLHcNwq-w/edit)
     - [FragUi Gallary](https://www.figma.com/design/FWAOrthBYe6HvcHoNiELq7/Mahak-Projects?node-id=0-1&t=G0SYPpGEfPM3rG1J-0)
     - [Wages & Wiskers](https://www.canva.com/design/DAFexQkDWfg/kRFjbhu-QaBZ-hzqABhJJg/edit)
     - [Quencil Internship Project](https://www.canva.com/design/DAFi6tp7Vhk/BJQHzQZ0aO4y27tgQXw4IQ/edit)
     - [OlympicMinia](https://youtu.be/qYobO5jl77g?si=2TIJ7rsBceZqljKj)
-    - 
+
 
 ---
 
